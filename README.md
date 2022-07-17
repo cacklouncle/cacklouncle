@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Piyush Agrawal, also @cacklouncle online.
 
-![Piyush photo](image.jpg)
-
 - 👀 I’m interested in learning new things related to technology and I want to explore various domains.
 
 - 🌱 I’m currently learning data science and electronics engineering.
